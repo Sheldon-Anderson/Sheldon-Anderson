@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sheldon-Anderson/Sheldon-Anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div style="
+    font-family: 'KaiTi', 'STKaiti', 'AR PL UKai CN', 'Noto Serif SC', serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #3E2723;
+    background: linear-gradient(135deg, #FDFBF7 0%, #F2EBDC 100%);
+    padding: 40px 50px;
+    border: 3px double #B09F8A;
+    border-radius: 12px;
+    box-shadow: 6px 6px 12px rgba(0,0,0,0.25), inset 0 0 15px rgba(139,115,85,0.1);
+    display: inline-block;
+    line-height: 2.6;
+    letter-spacing: 3px;
+">
+烂柯终年无人行，意外今日远客迎。<br>
+莫道深山无知己，贵人临堡夜风停。
+</div>
