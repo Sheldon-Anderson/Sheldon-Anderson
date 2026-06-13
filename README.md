@@ -15,5 +15,6 @@
     letter-spacing: 3px;
     margin-bottom: 12px;
 ">
-做一点微小的研究工作。
+烂柯终年无人行，意外今日远客迎。<br>
+莫道深山无知己，贵人临堡夜风停。
 </div>
